@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = C:\Users\HP\Documents\10-Academy\AlphaCare-Insurance-Solutions-WEEK3\dvc_storage

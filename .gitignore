@@ -165,7 +165,7 @@ cython_debug/
 data/*
 
 # Ignore DVC storage directory
-dvc_storage/
+dvc_storage
 
 # Except DVC files
 !data/*.dvc

@@ -163,6 +163,7 @@ cython_debug/
 
 # Ignore everything in the data directory
 data/*
+dvc_storage/files/md5/*
 
 # Except DVC files
 !data/*.dvc

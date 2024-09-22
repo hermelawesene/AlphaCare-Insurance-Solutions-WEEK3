@@ -46,4 +46,17 @@ This repository contains code and scripts for analyzing Alphacare Insurance data
 ### Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/alphacare-insurance-analysis.git
+git clone https://github.com/hermelawesenr/AlphaCare-Insurance-Solutions-WEEK3.git
+```
+## Install the required Python packages using requirements.txt:
+```bash
+pip install -r requirements.txt
+```
+
+## Requirements
+- **Python 3.x**: For running the analysis scripts.
+- **Pandas**: For data manipulation and analysis.
+- **Matplotlib**: For data visualization.
+- **sk-learn**: For model.
+
+
